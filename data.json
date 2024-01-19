@@ -1,0 +1,56 @@
+{
+  "item": [
+    {
+      "id": 0,
+      "heading": {
+        "large": "Exquisite Watches",
+        "small": "Gold Luxury,",
+        "span": "Choose Us"
+      },
+      "description": "Discover the Perfect Watch for Every Occasion and Elevate Your Style with Timeless Elegance and Precision Craftsmanship - watch",
+      "price": "$499.00",
+      "img_url": "./Images/Frame 24.png",
+      "frame": "./Frame 6.svg",
+      "background": "linear-gradient(106deg, #F4A764 -2.93%, #FFDEC2 72.14%)"
+    },
+    {
+      "id": 1,
+      "heading": {
+        "large": "Dainty Timepieces",
+        "small": "Silver Luxury,",
+        "span": "Choose Us"
+      },
+      "description": "Explore the Ideal Timepiece for Any Moment and Enhance Your Style with Timeless Sophistication and Impeccable Craftsmanship - timepiece",
+      "price": "$469.00",
+      "img_url": "./Images/Frame 25.png",
+      "frame": "./Frame 6.svg",
+      "background": " linear-gradient(106deg, #ADB0B0 -2.93%, #E1E1E1 72.14%)"
+    },
+    {
+      "id": 2,
+      "heading": {
+        "large": "Elegant Timepieces",
+        "small": "Choose Luxury,",
+        "span": "Choose Us"
+      },
+      "description": "Discover the Perfect Watch for Every Occasion and Elevate Your Style with Timeless Elegance and Precision Craftsmanship - watch",
+      "price": "$529.00",
+      "img_url": "./Images/Frame 26.png",
+      "frame": "./Frame 6.svg",
+      "background": " linear-gradient(106deg, #30A357 -2.93%, #75E39A 72.14%)"
+    },
+    {
+      "id": 3,
+      "heading": {
+        "large": "Refined Timepieces",
+        "small": "Choose Luxury,",
+        "span": "Choose Us"
+      },
+      "description": "Explore the Ideal Timepiece for Any Moment and Enhance Your Style with Timeless Sophistication and Impeccable Craftsmanship - timepiece",
+      "price": "$599.00",
+      "img_url": "./Images/Frame 27.png",
+      "frame": "./Frame 6.svg",
+      "background": "linear-gradient(106deg, #F24F4F -2.93%, #FFA895 72.14%)"
+    }
+  ]
+}
